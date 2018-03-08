@@ -1,0 +1,10 @@
+template: Hello, %s!
+
+defaultName: asd
+
+database:
+   driverClass: com.mysql.jdbc.Driver
+   url: jdbc:mysql://172.31.12.85:3306/amz_madhuari
+   user: accosa_user
+   password: accosa2k4 
+   

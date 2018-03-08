@@ -1,0 +1,9 @@
+com/example/helloworld/HelloWorldApplication.class
+com/example/helloworld/health/TemplateHealthCheck.class
+com/example/helloworld/api/Saying.class
+com/example/helloworld/resources/HelloWorldResource.class
+com/example/helloworld/resources/PersonResource.class
+com/example/dao/PersonDAO.class
+com/example/helloworld/api/PersonMapper.class
+com/example/helloworld/HelloWorldConfiguration.class
+com/example/helloworld/api/Person.class
